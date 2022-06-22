@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create an account without agreeing to the terms and conditions</description>
+   <name>ACCOUNT_REGISTER_DOM_10</name>
+   <tag>ACCOUNT_REGISTER</tag>
+   <comment></comment>
+   <testCaseGuid>178c7e67-78b9-4f9f-8f1f-eb985380185a</testCaseGuid>
+</TestCaseEntity>

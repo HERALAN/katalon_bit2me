@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create an account without @</description>
+   <name>ACCOUNT_REGISTER_DOM_05</name>
+   <tag>ACCOUNT_REGISTER</tag>
+   <comment></comment>
+   <testCaseGuid>ee0bc397-bdca-44f6-bc87-14a6b0a537c4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create an account successfully</description>
+   <name>ACCOUNT_REGISTER_DOM_04</name>
+   <tag>ACCOUNT_REGISTER</tag>
+   <comment></comment>
+   <testCaseGuid>e84e98fc-ccbb-433f-b47d-e0f47a4df294</testCaseGuid>
+</TestCaseEntity>

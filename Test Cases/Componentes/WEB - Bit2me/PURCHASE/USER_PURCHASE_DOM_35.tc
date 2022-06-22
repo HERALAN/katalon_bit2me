@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buy BTC (Kraken) origin Tikebit - input amount 100 €</description>
+   <name>USER_PURCHASE_DOM_35</name>
+   <tag>USER_PURCHASE</tag>
+   <comment></comment>
+   <testCaseGuid>ef9cafd0-a31f-41cf-8e60-bd5504e8d168</testCaseGuid>
+</TestCaseEntity>

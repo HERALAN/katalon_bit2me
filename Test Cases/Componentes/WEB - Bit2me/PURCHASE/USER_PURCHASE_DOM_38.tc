@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buy BTC (Kraken) origin Euro Wallet - input amount 100 €</description>
+   <name>USER_PURCHASE_DOM_38</name>
+   <tag>USER_PURCHASE</tag>
+   <comment></comment>
+   <testCaseGuid>aff4f66f-61ef-4c9d-9286-715d729d67d9</testCaseGuid>
+</TestCaseEntity>

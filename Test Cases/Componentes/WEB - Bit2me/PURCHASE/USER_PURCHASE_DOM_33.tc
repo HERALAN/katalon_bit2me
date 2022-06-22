@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buy BTC (Kraken) origin credit card - input amount 0.0001 BTC</description>
+   <name>USER_PURCHASE_DOM_33</name>
+   <tag>USER_PURCHASE</tag>
+   <comment></comment>
+   <testCaseGuid>3804924f-29cd-40b9-a056-9ada36196e33</testCaseGuid>
+</TestCaseEntity>

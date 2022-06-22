@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create an account with a valid affiliate code</description>
+   <name>ACCOUNT_REGISTER_DOM_11</name>
+   <tag>ACCOUNT_REGISTER</tag>
+   <comment></comment>
+   <testCaseGuid>06f403d2-9014-4277-b7f9-a3e522c697fb</testCaseGuid>
+</TestCaseEntity>

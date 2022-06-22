@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create an account with the email address without domain.</description>
+   <name>ACCOUNT_REGISTER_DOM_06</name>
+   <tag>ACCOUNT_REGISTER</tag>
+   <comment></comment>
+   <testCaseGuid>94c14bac-75c4-4b9c-9e17-7e1b04c33287</testCaseGuid>
+</TestCaseEntity>

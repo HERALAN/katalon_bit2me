@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Cuenta Club Premier o Correo electrnico</name>
+   <tag></tag>
+   <elementGuidId>bb61a1ab-c928-4d01-bab1-9f2108174130</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-login']/div[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>31e355e5-8188-495b-81ce-7e8c8556f7be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>account</value>
+      <webElementGuid>6890606c-d0f3-493b-8a61-2675a037210c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cuenta Club Premier o Correo electrónico</value>
+      <webElementGuid>7fa07310-8856-4c1b-a7f6-725b1d3810b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-login&quot;)/div[@class=&quot;col-12 col-md-12 col-lg-12&quot;]/div[@class=&quot;form-group floating-label&quot;]/label[1]</value>
+      <webElementGuid>4c17a11f-762e-4d23-a688-f8a0fb50a1a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-login']/div[2]/div/label</value>
+      <webElementGuid>2cd1f96c-287d-4d32-9ca5-90e5236773bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reenviar código de seguridad'])[1]/following::label[1]</value>
+      <webElementGuid>88cab9f6-5885-4c2f-a43e-18bb61f35761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Código de seguridad'])[1]/following::label[1]</value>
+      <webElementGuid>05bd08a2-a9df-4047-8c77-be3276be082a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recuperar Número de Cuenta'])[1]/preceding::label[1]</value>
+      <webElementGuid>503471c9-a7a5-4db5-b535-2cbad662a14d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contraseña'])[1]/preceding::label[1]</value>
+      <webElementGuid>9d968d3f-c098-4a4f-b724-98823d137228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cuenta Club Premier o Correo electrónico']/parent::*</value>
+      <webElementGuid>3cf3aec3-9c75-48a5-8747-2f538de53918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label</value>
+      <webElementGuid>fed4186b-c150-4572-91e2-6a6b43f317fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Cuenta Club Premier o Correo electrónico' or . = 'Cuenta Club Premier o Correo electrónico')]</value>
+      <webElementGuid>6fe54b62-90bf-4409-a3b5-0aaccdd78cac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
